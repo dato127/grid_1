@@ -1,0 +1,9 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 45px;
+}
+
+.row>div>div {
+    background-color: #1AA17980;
+}
